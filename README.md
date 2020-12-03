@@ -1,2 +1,8 @@
 # Searching-Algo-Visualizer
-I made a Searching Algo Visualizer using python Tkinter.....Here I include Linear Search and Binary Search concept only...
+I made a Searching Algo Visualizer using python Tkinter.....
+
+Concepts included here----->
+
+1.Linear Search concept
+
+2.Binary Search concept
