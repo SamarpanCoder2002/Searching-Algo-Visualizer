@@ -1,5 +1,5 @@
 # Searching-Algo-Visualizer
-I made a Searching Algo Visualizer using python Tkinter.....
+I made a Searching Algo Visualizer using Python Tkinter.....
 
 Concepts included here----->
 
