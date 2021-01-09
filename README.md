@@ -8,7 +8,7 @@
 ---
 ### <p align="center" style="color: blue">***Hello Programmers, Here I made a Visualizer <p align="center" style="color: red">Searching Algo Visualizer</p> <p align="center" style="color: blue">Using</p> <p align="center" style="color: red">Python Tkinter***</p></p>
 
-<p align="center"> <img alt="image" height="400px"  width="600px" src="https://github.com/SamarpanCoder2002/Searching-Algo-Visualizer/blob/main/readmepic.png?raw=true"/><br></p>
+<p align="center"> <img alt="gif" height="300px" width="600px" src="searching_algo_gif.gif"/><br></p>
 
 ---
 ### <p align="left" style="color: brown">⚒️ _Important Module Used Here:_</p>
